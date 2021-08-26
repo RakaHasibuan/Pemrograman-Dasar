@@ -29,7 +29,7 @@ public class Solution {
         
         if (cond==false)
         {
-            System.out.println("ERROR");
+            System.out.println("TIDAK ADA");
         }
     }
 }
